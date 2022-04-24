@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 
+### Olá! Eu sou Larete José Vieira 🖐️
 
-<!--
-**LaerteJv/LaerteJv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Laerte GitHub stats](https://github-readme-stats.vercel.app/api?username=LaerteJv&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+## Tecnologias que uso no meu dia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display; inline_block"><br>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div> 
+
+
+Sou um iniciante na área da tecnlogia, sou uma pessoa focado que sabe muito bem aonde quer chegar.
+
+"Se você contar sua ideia para 10 pessoas e 9 delas disser que você está maluco, provavelmente você está fazendo algo inovador".
+
+Nolan Bushnell
+
+
