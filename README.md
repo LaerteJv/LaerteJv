@@ -1,5 +1,5 @@
-### Hi there 👋 
-### Olá! Eu sou Larete José Vieira 🖐️
+
+### Olá! Eu sou Larete José Vieira 
 
 ![Laerte GitHub stats](https://github-readme-stats.vercel.app/api?username=LaerteJv&show_icons=true&theme=tokyonight)
 
